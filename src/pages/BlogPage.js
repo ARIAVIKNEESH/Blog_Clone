@@ -39,7 +39,6 @@ function BlogPage() {
             <h2>{blog.title}</h2>
             <p>{blog.content}</p>
             <p>Join the session with {blog.mentor}</p>
-            <a href="#" className="read-more">Read More</a>
           </div>
         ))}
       </div>
